@@ -1,10 +1,21 @@
-## 웹 사이트
+### web
 - [https://school.ch1ck.xyz/](https://school.ch1ck.xyz/)
 - [https://ip.ch1ck.xyz/](https://ip.ch1ck.xyz/)
+- [https://urlapp.xyz/](https://urlapp.xyz/)
 
 
-## 디스코드 봇
-- [Cheese Tabby#4070](https://discord.com/api/oauth2/authorize?client_id=730797542065045504&permissions=35904&scope=bot)
+### bot
+- Discord
+    - [Cheese Tabby#4070](https://discord.com/api/oauth2/authorize?client_id=730797542065045504&permissions=35904&scope=bot)
+
+---
+
+### using tool
+- python
+    - [PyCharm Community](https://www.jetbrains.com/pycharm/)
+    - [brackets](https://github.com/adobe/brackets)
+- html & javascript & php
+    - [brackets](https://github.com/adobe/brackets)
 
 
 ### email
