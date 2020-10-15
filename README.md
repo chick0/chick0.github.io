@@ -17,8 +17,15 @@
 ---
 
 ### using
-- python
+- Python 3
     - [PyCharm Community](https://www.jetbrains.com/pycharm/)
-    - [brackets](https://github.com/adobe/brackets)
-- html & javascript & css & php
-    - [brackets](https://github.com/adobe/brackets)
+    - [Brackets](http://brackets.io/)
+- HTML
+    - [Brackets](http://brackets.io/)
+- Javascript
+    - [Brackets](http://brackets.io/)
+    - [Sublime Text](https://www.sublimetext.com/)
+- CSS
+    - [Brackets](http://brackets.io/)
+- PHP
+    - [Brackets](http://brackets.io/)
