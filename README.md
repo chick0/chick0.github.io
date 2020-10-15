@@ -20,8 +20,12 @@
 - Python 3
     - [PyCharm Community](https://www.jetbrains.com/pycharm/)
     - [Brackets](http://brackets.io/)
+- Markdown
+    - [Typora](https://typora.io/)
+    - [Brackets](http://brackets.io/)
 - HTML
     - [Brackets](http://brackets.io/)
+    - [Notepad++](https://notepad-plus-plus.org/)
 - Javascript
     - [Brackets](http://brackets.io/)
     - [Sublime Text](https://www.sublimetext.com/)
@@ -29,3 +33,7 @@
     - [Brackets](http://brackets.io/)
 - PHP
     - [Brackets](http://brackets.io/)
+- SQL
+    - [Brackets](http://brackets.io/)
+    - [DBeaver](https://dbeaver.io/)
+    - [DB Browser for SQLite](https://sqlitebrowser.org/)
