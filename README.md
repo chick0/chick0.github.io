@@ -10,4 +10,4 @@
 -----
 
 ## 기타
-- [업타임](https://status.ch1ck.xyz/)
+- [서버 상태(업타임)](https://status.ch1ck.xyz/)
