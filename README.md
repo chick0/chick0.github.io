@@ -7,5 +7,5 @@
 -----
 
 ## 기타
-- 서버 상태 [업타임](https://status.ch1ck.xyz/)
-- 이메일 [chick_0@ch1ck.xyz](mailto:chick_0@ch1ck.xyz)
+  - [서버 업타임](https://status.ch1ck.xyz/)
+  - [이메일 chick_0@ch1ck.xyz](mailto:chick_0@ch1ck.xyz)
