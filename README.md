@@ -1,11 +1,9 @@
-# XD
+# About Me
+- 이메일 : [chick_0@ch1ck.xyz](mailto:chick_0@ch1ck.xyz)
+- 팀 : [@Calico Cheese](https://calicocheese.xyz/)
+- 서비스 상태 : [status page(uptime)](https://status.ch1ck.xyz/)
 
-# [급식 조회](https://school.ch1ck.xyz/)
-# [파일 공유](https://share.ch1ck.xyz/)
-
------
-
-## 기타
-  - [서버 업타임](https://status.ch1ck.xyz/)
-  - [chick_0@ch1ck.xyz](mailto:chick_0@ch1ck.xyz)
-  - [@Calico Cheese](https://calicocheese.xyz/)
+# 웹 사이트
+## 1. [급식 조회](https://school.ch1ck.xyz/)
+## 2. [파일 공유](https://share.ch1ck.xyz/)
+## 3. [주사위](https://dice.ch1ck.xyz/)
