@@ -1,11 +1,55 @@
-## About Me
-1. 이메일 : [chick_0@ch1ck.xyz](mailto:chick_0@ch1ck.xyz)
-2. 팀 : [@Calico Cheese](https://calicocheese.xyz/)
-3. 서비스 상태 : [status page(uptime)](https://status.ch1ck.xyz/)
+# About Me
+이메일 : [chick_0@ch1ck.xyz](mailto:chick_0@ch1ck.xyz)
 
-### 웹 사이트
-1. [급식 조회](https://school.ch1ck.xyz/)
-2. [파일 공유](https://github.com/chick0/share)
-3. [주사위](https://github.com/chick0/dice)
-4. [익명 게시판](https://github.com/chick0/anon_board)
-5. [투두 리스트](https://github.com/chick0/todo)
+## 웹 사이트
+
+### 급식 조회
+[소스코드](https://github.com/chick0/meal) [웹 사이트](https://school.ch1ck.xyz/)
+
+쉽고 빠르게 작동하는 급식 조회 웹 사이트
+
+Redis를 사용해 조회한 조회한 학교의 급식 정보를 캐싱해 요청 시간을 단축한다.
+
+localStorage에 즐겨찾기 정보를 저장해 편하게 사용 할 수 있다.
+
+### 파일 공유 웹
+[소스코드](https://github.com/chick0/share)
+
+로그인 없이 파일 업로드가 가능한 서비스
+
+업로드한 파일인 최소 1일에서 최대 14일 까지 보관 날짜 지정아 가능하다.
+
+업로드된 파일은 신고를 통해 다운로드 전 경고를 보낼수 있고 서비스 관리자가 파일의 다운로드를 차단할 경우 다운로드가 불가능하다.
+
+### 주사위
+[소스코드](https://github.com/chick0/dice)
+
+주사위를 굴리는 웹 사이트로 주사위 이미지 파일을 global 스코프에 저장해 불러온다.
+
+### 익명 게시판
+[소스코드](https://github.com/chick0/anon_board)
+
+누구나 글과 댓글이 작성 가능한 서비스
+
+글을 쓰거나 댓글을 남겼을때 IP주소가 기록되지 않고 글 삭제는 글 작성시에 지정한 비밀번호로만 삭제가 가능하다.
+
+### 투두 리스트
+[소스코드](https://github.com/chick0/todo)
+
+해야 할 일을 작성하고 관리할 수 있는 서비스
+
+사용자가 등록한 할 일을 목록으로 보여주고 수정및 삭제를 지원한다.
+
+할 일을 추가, 수정, 삭제, 불러오기 작업 모두 API로 동작한다.
+
+### aboutus - 칼리코치즈
+[소스코드](https://github.com/chick0/aboutus) [웹 사이트](https://calicocheese.xyz)
+
+친구들과 재미 삼아 만든 첫 개발 팀의 웹 사이트
+
+팀의 멤버의 프로젝트를 작성및 수정이 가능하다. 비공개 설정도 지원한다.
+
+팀의 관리자는 멤버 추가, 정보 수정, 삭제가 가능하다.
+
+
+
