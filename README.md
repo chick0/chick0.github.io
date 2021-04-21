@@ -5,12 +5,11 @@
 
 ### 급식 조회
 [소스코드](https://github.com/chick0/meal) [웹 사이트](https://school.ch1ck.xyz/)
-
+```
 쉽고 빠르게 작동하는 급식 조회 웹 사이트
-
 Redis를 사용해 조회한 조회한 학교의 급식 정보를 캐싱해 요청 시간을 단축한다.
-
 localStorage에 즐겨찾기 정보를 저장해 편하게 사용 할 수 있다.
+```
 
 ### 파일 공유 웹
 [소스코드](https://github.com/chick0/share)
