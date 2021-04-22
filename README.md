@@ -3,7 +3,7 @@
 
 ## 웹 사이트
 ### 급식 조회
-[소스코드](https://github.com/chick0/meal) [웹 사이트](https://school.ch1ck.xyz/)
+[소스코드](https://github.com/chick0/meal) / [웹 사이트](https://school.ch1ck.xyz/)
 
 쉽고 빠르게 작동하는 급식 조회 웹 사이트
 
@@ -51,7 +51,7 @@ localStorage에 즐겨찾기 정보를 저장해 편하게 사용 할 수 있다
 할 일을 추가, 수정, 삭제, 불러오기 작업 모두 API로 동작한다.
 
 ### aboutus - 칼리코치즈
-[소스코드](https://github.com/chick0/aboutus) [웹 사이트](https://calicocheese.xyz)
+[소스코드](https://github.com/chick0/aboutus) / [웹 사이트](https://calicocheese.xyz)
 
 친구들과 만든 첫 개발 팀의 웹 사이트
 
