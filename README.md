@@ -26,13 +26,15 @@ localStorage에 즐겨찾기 정보를 저장해 편하게 사용 할 수 있다
 글을 쓰거나 댓글을 남겼을때 IP주소가 기록되지 않고 글 삭제는 글 작성시에 지정한 비밀번호로만 삭제가 가능하다.
 
 ### 파일 공유 웹
-[소스코드](https://github.com/chick0/share) [관리도구](https://github.com/chick0/share_client)
+[소스코드](https://github.com/chick0/share)
 
 로그인 없이 파일 업로드가 가능한 서비스
 
 업로드한 파일인 최소 1일에서 최대 14일 까지 보관 날짜 지정이 가능하다.
 
 업로드된 파일은 신고를 통해 다운로드 전 경고를 보낼수 있고 서비스 관리자가 파일의 다운로드를 차단할 경우 다운로드가 불가능하다.
+
+관리자는 [관리도구](https://github.com/chick0/share_client)를 통해 업로드된 파일을 관리할 수 있습니다.
 
 ### 주사위
 [소스코드](https://github.com/chick0/dice)
@@ -51,7 +53,7 @@ localStorage에 즐겨찾기 정보를 저장해 편하게 사용 할 수 있다
 ### aboutus - 칼리코치즈
 [소스코드](https://github.com/chick0/aboutus) [웹 사이트](https://calicocheese.xyz)
 
-친구들과 재미 삼아 만든 첫 개발 팀의 웹 사이트
+친구들과 만든 첫 개발 팀의 웹 사이트
 
 팀의 멤버의 프로젝트를 작성및 수정이 가능하다. 프로젝트 비공개 설정도 지원한다.
 
@@ -63,19 +65,3 @@ localStorage에 즐겨찾기 정보를 저장해 편하게 사용 할 수 있다
 GMail SMTP서버를 통해 동작하는 API 서비스이다.
 
 사용 하려면 클라이언트를 등록하고 승인해야 한다.
-
-
-## 채팅 봇
-### (Archived) cheese_tabby
-[소스코드](https://github.com/chick0/cheese_tabby)
-
-디스코드 채팅 창에 고양이와 관련된 채팅이 올라오면 고양이 사진을 보내주는 채팅 봇 이다.
-
-이미지 캐시 기능을 통해 API서버가 작동하지 않는 상황에 대비했다.
-
-### (Archived) discord_radio
-[소스코드](https://github.com/chick0/discord_radio)
-
-디스코드에서 사용할 수 있는 라디오 봇이다.
-
-원하는 노래를 마음대로 지정하는 음악 봇과 달리 봇의 음악 풀더에 들어있는 노래를 랜덤으로 재생해서 라디오 봇 이다.
