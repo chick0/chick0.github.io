@@ -72,4 +72,10 @@ GMail SMTP서버를 통해 동작하는 API 서비스이다.
 
 
 ## pycache
-[소스코드](https://github.com/chick0/pycache)
+[소스코드](https://github.com/chick0/pycache) / [test.py](https://gist.github.com/chick0/908ba4f711154347fc9937578769655b)
+
+pycache는 소켓으로 통신하는 캐시 서버 입니다.
+
+또 처음으로 소켓을 사용한 프로젝트입니다.
+
+GET명령을 통해 데이터 조회, SET명령을 통해 데이터 저장, DELETE명령을 통해 데이터 삭제가 가능합니다.
