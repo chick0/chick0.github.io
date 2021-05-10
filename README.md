@@ -74,19 +74,21 @@ GMail SMTP서버를 통해 동작하는 API 서비스이다.
 ## pycache
 [소스코드](https://github.com/chick0/pycache) / [test.py](https://gist.github.com/chick0/908ba4f711154347fc9937578769655b)
 
-pycache는 소켓으로 통신하는 캐시 서버 입니다.
+소켓으로 통신하고 데이터를 임시로 저장하기 위한 캐시 서버이다.
 
-GET명령을 통해 데이터 조회, SET명령을 통해 데이터 저장, DELETE명령을 통해 데이터 삭제가 가능합니다.
+서버에서 globals 스코프에 데이터를 저장해 클라이언트한테 전달하고 전달 받는다.
+
+클라이언트에서는 GET, SET 명령어를 통해 데이터에 접근할 수 있다.
 
 
 ## 랜덤닉네임
 [소스코드](https://gist.github.com/chick0/20b4d213617b4d2512018a7c66b44cfd)
 
+음식 이름과 그 이름을 꾸며주는 말을 이용해 랜덤으로 닉네임을 생성해주는 함수이다.
 
 ------------------------------------------------
 
 
 ## mybot
 [소스코드](https://github.com/chick0/mybot)
-
 
