@@ -39,11 +39,6 @@ localStorage에 즐겨찾기 정보를 저장해 편하게 사용 할 수 있다
 
 관리자는 [관리도구](https://github.com/chick0/share_client)를 통해 업로드된 파일을 관리할 수 있습니다.
 
-## 주사위
-[소스코드](https://github.com/chick0/dice)
-
-주사위를 굴리는 웹 사이트로 주사위 이미지 파일을 global 스코프에 저장해 불러온다.
-
 ## 투두 리스트
 [소스코드](https://github.com/chick0/todo)
 
