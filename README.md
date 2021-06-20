@@ -1,3 +1,5 @@
+# Hello, World!
+
 ## 급식 조회
 [소스코드](https://github.com/chick0/meal) / [웹 사이트](https://school.ch1ck.xyz/)
 
