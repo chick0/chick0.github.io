@@ -1,10 +1,3 @@
-# About Me
-이메일 : [chick_0@ch1ck.xyz](mailto:chick_0@ch1ck.xyz)
-
-------------------------------------------------
-# 내 프로젝트
-
-
 ## 급식 조회
 [소스코드](https://github.com/chick0/meal) / [웹 사이트](https://school.ch1ck.xyz/)
 
